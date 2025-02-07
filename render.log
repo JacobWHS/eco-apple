@@ -1,0 +1,29 @@
+==> Cloning from https://github.com/JacobWHS/eco-apple
+==> Checking out commit 5733e8e023afb5788e286a3cfbea284743d0f54e in branch main
+==> Using Node.js version 22.12.0 (default)
+==> Docs on specifying a Node.js version: https://render.com/docs/node-version
+==> Using Bun version 1.1.0 (default)
+==> Docs on specifying a bun version: https://render.com/docs/bun-version
+==> Running build command 'yarn'...
+yarn install v1.22.22
+info No lockfile found.
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+Done in 0.03s.
+==> Uploading build...
+==> Uploaded in 10.5s. Compression took 4.3s
+==> Build successful 🎉
+==> Deploying...
+==> Running 'yarn start'
+yarn run v1.22.22
+error Couldn't find a package.json file in "/opt/render/project/src"
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+==> Exited with status 1
+==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+==> Running 'yarn start'
+yarn run v1.22.22
+error Couldn't find a package.json file in "/opt/render/project/src"
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
