@@ -1,0 +1,15 @@
+{
+  "name": "eco-apple",
+  "version": "1.0.0",
+  "description": "MySQL Alpine.js CRUD",
+  "author": "Jacob W.",
+  "license": "none",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "2.18.1",
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
